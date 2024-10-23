@@ -1,7 +1,7 @@
 ![removal ai _42e19fde-3796-4a32-9b28-d9084612f05e_TaskMate](https://github.com/user-attachments/assets/f9450e88-d2bc-4b3e-a920-659709f646f3)
 
 
-# TaskManagerFX
+# TaskMate
 
 TaskManagerFX est une application de gestion de tâches simple et efficace, permettant aux utilisateurs d'ajouter, de gérer et de suivre leurs tâches quotidiennes. Avec une interface utilisateur conviviale basée sur JavaFX, cette application est idéale pour ceux qui souhaitent améliorer leur productivité et organiser leur travail.
 
