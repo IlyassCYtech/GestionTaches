@@ -6,6 +6,7 @@
 TaskManagerFX est une application de gestion de tâches simple et efficace, permettant aux utilisateurs d'ajouter, de gérer et de suivre leurs tâches quotidiennes. Avec une interface utilisateur conviviale basée sur JavaFX, cette application est idéale pour ceux qui souhaitent améliorer leur productivité et organiser leur travail.
 
 ## Fonctionnalités
+![image](https://github.com/user-attachments/assets/f463593e-1d8f-4c1f-8ef2-586bf4d03703)
 
 - **Ajout de Tâches** : Créez des tâches avec un texte, une priorité (faible, normale, haute) et éventuellement une date et une heure.
 - **Gestion des Tâches** : Marquez les tâches comme terminées ou supprimez-les facilement.
