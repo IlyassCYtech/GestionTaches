@@ -1,7 +1,8 @@
 ![removal ai _42e19fde-3796-4a32-9b28-d9084612f05e_TaskMate](https://github.com/user-attachments/assets/f9450e88-d2bc-4b3e-a920-659709f646f3)
 
 
-# TaskMate ![image](https://github.com/user-attachments/assets/c8e9d96a-2fe0-4c00-96bf-bb536c2e2ab8) ![image](https://github.com/user-attachments/assets/4c377e0e-fea9-48b4-8e4f-c3b9992504c6)
+# TaskMate ![image](https://github.com/user-attachments/assets/6c44f270-abd2-4407-be23-d90df9a06c6d)
+ ![image](https://github.com/user-attachments/assets/4c377e0e-fea9-48b4-8e4f-c3b9992504c6)
 
 
 
