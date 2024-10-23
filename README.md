@@ -1,4 +1,4 @@
-![TaskMate-removebg-preview](https://github.com/user-attachments/assets/590e047e-b8b0-423d-888c-6ce25e7702c2)
+![removal ai _bd91a59d-4e7d-4667-8841-e8ce36886538-taskmate1](https://github.com/user-attachments/assets/699d6d88-7b82-48a1-8f49-cedce6b0aa80)
 
 # TaskMate <img src="https://github.com/user-attachments/assets/6c44f270-abd2-4407-be23-d90df9a06c6d" alt="Image 1" width="100"/> <img src="https://github.com/user-attachments/assets/4c377e0e-fea9-48b4-8e4f-c3b9992504c6" alt="Image 2" width="100"/>
 
