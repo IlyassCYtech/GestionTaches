@@ -27,3 +27,22 @@ TaskManagerFX est une application de gestion de tâches simple et efficace, perm
 
   ```bash
   java -version
+
+
+# Instructions d'Installation et d'Exécution du Projet
+
+## Pour Windows
+1. **Télécharger le code source :** Téléchargez le code source du projet depuis le dépôt.
+2. **Ouvrir l'invite de commandes :** Appuyez sur `Win + R`, tapez `cmd`, puis appuyez sur `Entrée`.
+3. **Naviguer vers le répertoire du projet :** Utilisez la commande suivante pour accéder au répertoire où vous avez téléchargé le projet : cd chemin\vers\votre\projet
+4. **Compiler le projet :** Exécutez la commande suivante pour compiler le code source : javac -d bin src/*.java
+5. **Exécuter l'application :** Utilisez la commande suivante pour exécuter l'application : java -cp bin TaskManagerFX
+
+## Pour Ubuntu
+1. **Télécharger le code source :** Téléchargez le code source du projet depuis le dépôt.
+2. **Ouvrir le terminal :** Appuyez sur `Ctrl + Alt + T` pour ouvrir le terminal.
+3. **Naviguer vers le répertoire du projet :** Utilisez la commande suivante pour accéder au répertoire où vous avez téléchargé le projet : cd /chemin/vers/votre/projet
+4. **Compiler le projet :** Exécutez la commande suivante pour compiler le code source : javac -d bin src/*.java
+5. **Exécuter l'application :** Utilisez la commande suivante pour exécuter l'application : java -cp bin TaskManagerFX
+
+Assurez-vous d'avoir Java installé sur votre machine avant de procéder aux étapes ci-dessus.
