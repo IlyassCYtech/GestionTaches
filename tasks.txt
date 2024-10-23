@@ -1,0 +1,7 @@
+ghghg;Normale;true;
+gjggj;Normale;true;2024-10-26 18:16:00.0
+kjhjkhj;Normale;true;2024-10-25 18:17:00.0
+ghjgjh;Normale;true;2024-10-25 18:19:00.0
+hjghgg;Normale;false;
+gjhghggjh;Haute;false;
+hghjg;Haute;false;

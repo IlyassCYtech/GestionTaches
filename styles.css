@@ -1,0 +1,75 @@
+/* Styles pour le panneau principal */
+#taskPanel {
+    -fx-background-color: #F5F5F5; /* Couleur de fond pour le panneau de tâches */
+    -fx-padding: 10px; /* Espacement interne du panneau */
+    -fx-spacing: 10px; /* Espacement entre les éléments */
+}
+
+/* Styles pour chaque ligne de tâche */
+.task-row {
+    -fx-background-color: #FFFFFF; /* Couleur de fond par défaut */
+    -fx-padding: 10px; /* Espacement interne */
+    -fx-border-color: #CCCCCC; /* Couleur de la bordure */
+    -fx-border-width: 1px; /* Largeur de la bordure */
+    -fx-border-radius: 5px; /* Coins arrondis */
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 1); /* Ombre légère */
+    -fx-transition: all 0.3s ease; /* Animation douce pour les transitions */
+}
+
+/* Couleur différente si la tâche est terminée */
+.task-row.done {
+    -fx-background-color: #D3E5D8; /* Couleur pour les tâches terminées */
+}
+
+/* Styles pour les labels */
+.label {
+    -fx-font-size: 14px; /* Taille de la police */
+    -fx-font-family: "Segoe UI", sans-serif; /* Police moderne */
+}
+
+/* Styles pour les boutons */
+.button {
+    -fx-background-color: #008CBA; /* Couleur de fond pour les boutons */
+    -fx-text-fill: white; /* Couleur du texte */
+    -fx-padding: 5px 10px; /* Espacement interne */
+    -fx-border-radius: 5px; /* Coins arrondis */
+    -fx-background-radius: 5px; /* Coins arrondis */
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.2), 3, 0, 0, 1); /* Ombre pour les boutons */
+    -fx-font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour le bouton de suppression */
+.button-remove {
+    -fx-background-color: red; /* Couleur de fond rouge */
+    -fx-text-fill: white; /* Couleur du texte en blanc */
+    -fx-font-weight: bold; /* Texte en gras */
+}
+
+/* Style pour le bouton de validation */
+.button-validate {
+    -fx-background-color: lightblue; /* Couleur de fond bleu clair */
+    -fx-text-fill: black; /* Couleur du texte */
+    -fx-padding: 5px 10px; /* Espacement interne */
+    -fx-border-radius: 5px; /* Coins arrondis */
+    -fx-background-radius: 5px; /* Coins arrondis */
+}
+
+/* Styles pour le panneau d'entrée */
+#inputPanel {
+    -fx-background-color: #F0F8FF; /* Couleur de fond pour le panneau d'entrée */
+    -fx-padding: 10px; /* Espacement interne */
+    -fx-border-radius: 5px; /* Coins arrondis */
+    -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.1), 5, 0, 0, 1); /* Ombre légère */
+}
+
+/* Styles pour les boutons au survol */
+.button:hover {
+    -fx-background-color: #005f80; /* Couleur plus foncée au survol */
+    -fx-transition: background-color 0.3s ease; /* Animation douce */
+}
+.button-remove:hover {
+    -fx-background-color: darkred; /* Couleur plus foncée pour le bouton de suppression */
+}
+.button-validate:hover {
+    -fx-background-color: deepskyblue; /* Couleur plus foncée pour le bouton de validation */
+}
