@@ -16,8 +16,8 @@ TaskManagerFX est une application de gestion de tâches simple et efficace, perm
 
 ## Technologies Utilisées
 
-- **Langage** : Java <img src="https://github.com/user-attachments/assets/6c44f270-abd2-4407-be23-d90df9a06c6d" alt="Image 1" width="100"/> 
-- **Bibliothèque** : JavaFX pour l'interface graphique <img src="https://github.com/user-attachments/assets/4c377e0e-fea9-48b4-8e4f-c3b9992504c6" alt="Image 2" width="100"/> 
+- **Langage** : Java <img src="https://github.com/user-attachments/assets/6c44f270-abd2-4407-be23-d90df9a06c6d" alt="Image 1" width="50"/> 
+- **Bibliothèque** : JavaFX pour l'interface graphique <img src="https://github.com/user-attachments/assets/4c377e0e-fea9-48b4-8e4f-c3b9992504c6" alt="Image 2" width="50"/> 
 - **Gestion des fichiers** : Utilisation de la lecture et de l'écriture de fichiers texte pour la persistance des données
 
 ## Exécution de l'Application
